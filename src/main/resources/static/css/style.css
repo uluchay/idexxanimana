@@ -1,0 +1,20 @@
+.header{
+    background-color: #cc283b;*/
+}
+.header h3{
+    color: white;
+    float: right;
+    margin-right: 20pt;
+}
+.header img{
+    height: 100px;
+}
+.search-fields{
+    padding: 20pt;
+}
+.table {
+    border-radius: 5px;
+    margin: 0px auto;
+    float: none;
+}
+
